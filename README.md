@@ -6,6 +6,7 @@ all papers, videos, docs, books i've read on AI
 
 ### videos
 
+* [A little guide to building Large Language Models in 2024](https://www.youtube.com/watch?v=2-SPH9hIKT8&t=860s)
 * [PyTorch Tutorials - Complete Beginners Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 * [Attention is all you need (Transformer), 2023](https://www.youtube.com/watch?v=bCz4OMemCcA)
 * [Coding LLaMA 2 from scratch in PyTorch](https://www.youtube.com/watch?v=oM4VmoabDAI&t=10s)
@@ -25,4 +26,9 @@ all papers, videos, docs, books i've read on AI
 
 [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 
+
+### websites
+
+[thomwolf.io](https://thomwolf.io/)
+[thomwolf book recommendation](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 
