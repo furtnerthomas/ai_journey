@@ -10,6 +10,7 @@ all papers, videos, docs, books i've read on AI
 * [PyTorch Tutorials - Complete Beginners Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 * [Attention is all you need (Transformer), 2023](https://www.youtube.com/watch?v=bCz4OMemCcA)
 * [Coding LLaMA 2 from scratch in PyTorch](https://www.youtube.com/watch?v=oM4VmoabDAI&t=10s)
+* [COding a transformer from scratch in PyTorch](https://www.youtube.com/watch?v=ISNdQcPhsts)
 
 
 ### papers
