@@ -32,6 +32,6 @@ co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580)
 
 ### websites
 
-[thomwolf.io](https://thomwolf.io/)
-[thomwolf book recommendation](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
+* [thomwolf.io](https://thomwolf.io/)
+* [thomwolf book recommendation](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 
