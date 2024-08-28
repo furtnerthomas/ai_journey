@@ -23,7 +23,7 @@ all papers, videos, docs, books i've read on AI
 
 ### diploma/master thesis / dissertation
 
-* [Diplomarbeit: Untersuchungen zu dynamischen neuronalen Netzen](https://github.com/CDitzel/Deep-Learning-Literature/blob/master/Diplomarbeit:%20Untersuchungen%20zu%20dynamischen%20neuronalen%20Netzen.pdf)
+* [Diplomarbeit: Untersuchungen zu dynamischen neuronalen Netzen (1991)](https://github.com/CDitzel/Deep-Learning-Literature/blob/master/Diplomarbeit:%20Untersuchungen%20zu%20dynamischen%20neuronalen%20Netzen.pdf)
 
 ### books
 
