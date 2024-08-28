@@ -19,6 +19,7 @@ all papers, videos, docs, books i've read on AI
 * [Layer Normalization](https://arxiv.org/pdf/1607.06450)
 * [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580)
 * [Long Short-Term Memory (1997)](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf)
+* [A Dual Formulation for Probabilistic Principal Component Analysis (2023)](https://ftp.esat.kuleuven.be/pub/stadius//hdeplaen/23-126.pdf)
 
 ### books
 
@@ -32,3 +33,7 @@ all papers, videos, docs, books i've read on AI
 
 * [thomwolf.io](https://thomwolf.io/)
 * [thomwolf book recommendation](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
+
+### awards
+
+* [Neural Networks Pioneer Award](https://cis.ieee.org/awards/past-recipients#NeuralNetworksPioneerAward)
