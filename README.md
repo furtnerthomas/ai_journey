@@ -21,6 +21,10 @@ all papers, videos, docs, books i've read on AI
 * [Long Short-Term Memory (1997)](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf)
 * [A Dual Formulation for Probabilistic Principal Component Analysis (2023)](https://ftp.esat.kuleuven.be/pub/stadius//hdeplaen/23-126.pdf)
 
+### diploma/master thesis / dissertation
+
+* [Diplomarbeit: Untersuchungen zu dynamischen neuronalen Netzen](https://github.com/CDitzel/Deep-Learning-Literature/blob/master/Diplomarbeit:%20Untersuchungen%20zu%20dynamischen%20neuronalen%20Netzen.pdf)
+
 ### books
 
 [Fundamentals of Deep Learning](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
