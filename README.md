@@ -41,3 +41,7 @@ all papers, videos, docs, books i've read on AI
 ### awards
 
 * [Neural Networks Pioneer Award](https://cis.ieee.org/awards/past-recipients#NeuralNetworksPioneerAward)
+
+### Github repos
+
+* [Deep-Learning-Literature](https://github.com/CDitzel/Deep-Learning-Literature/tree/master)
