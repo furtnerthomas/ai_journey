@@ -20,6 +20,7 @@ all papers, videos, docs, books i've read on AI
 * [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580)
 * [Long Short-Term Memory (1997)](https://deeplearning.cs.cmu.edu/S23/document/readings/LSTM.pdf)
 * [A Dual Formulation for Probabilistic Principal Component Analysis (2023)](https://ftp.esat.kuleuven.be/pub/stadius//hdeplaen/23-126.pdf)
+* [Making the World Differentiable: On Using Self-Supervised Fully Recurrent Neural Networks for Dynamic Reinforcement Learning and Planning in Non-Stationary Environments (1990)](https://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf)
 
 ### diploma/master thesis / dissertation
 
